@@ -1,3 +1,3 @@
 # English
 
-Task from te course.
+Task from the course.
